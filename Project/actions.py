@@ -80,6 +80,3 @@ def remove_item(conn, cur):
             else:
                 print("Invalid input!\n")
                 break
-
-srg = "perter"
-srg.encode('ascii')
